@@ -12,7 +12,7 @@ include(pico_sdk_import.cmake)
 include(rp2040_v6_hat_freertos_c_sdk_version.cmake)
 
 # Set project name
-set(PROJECT_NAME RP2040-v6-HAT-C)
+set(PROJECT_NAME RP2040-v6-HAT-FREERTOS-C)
 
 # Set project informations
 project(${PROJECT_NAME} C CXX ASM)
@@ -37,6 +37,11 @@ message(STATUS "WIZNET_CHIP = ${WIZNET_CHIP}")
 # Set the project root directory if it's not already defined, as may happen if
 # the tests folder is included directly by a parent project, without including
 # the top level CMakeLists.txt.
+if(NOT DEFINED FREERTOS_DIR)
+    set(FREERTOS_DIR ${CMAKE_SOURCE_DIR}/libraries/FreeRTOS-Kernel)
+    message(STATUS "FREERTOS_DIR = ${FREERTOS_DIR}")
+endif()
+
 if(NOT DEFINED WIZNET_DIR)
     set(WIZNET_DIR ${CMAKE_SOURCE_DIR}/libraries/io6Library)
     message(STATUS "WIZNET_DIR = ${WIZNET_DIR}")
