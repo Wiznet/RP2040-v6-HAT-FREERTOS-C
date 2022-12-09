@@ -71,6 +71,6 @@ Link
 [link-rp2040]: https://www.raspberrypi.org/products/rp2040/
 [link-w6100]: https://docs.wiznet.io/Product/iEthernet/W6100/overview
 [link-w6100-evb-pico]: https://docs.wiznet.io/Product/iEthernet/W6100/w6100-evb-pico
-[link-w6100-evb-pico_main]: https://github.com/Wiznet/RP2040-HAT-FREERTOS-C/blob/main/static/images/w6100-evb-pico_main.png
-[link-getting_started]: https://github.com/Wiznet/RP2040-HAT-FREERTOS-C/blob/main/static/documents/getting_started.md
+[link-w6100-evb-pico_main]: https://github.com/Wiznet/RP2040-v6-HAT-FREERTOS-C/blob/main/static/images/w6100-evb-pico_main.png
+[link-getting_started]: https://github.com/Wiznet/RP2040-v6-HAT-FREERTOS-C/blob/main/static/documents/getting_started.md
 [link-rp2040-v6-hat-c]: https://github.com/Wiznet/RP2040-v6-HAT-C
