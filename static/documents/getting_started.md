@@ -38,7 +38,7 @@ The FreeRTOS examples were tested by configuring the development environment for
 
 Examples are available at '**RP2040-v6-HAT-FREERTOS-C/examples/**' directory. As of now, following examples are provided.
 
--  To be added later
+- [**AddressAutoConfiguration**][link-AddressAutoConfiguration]
 
 Note that **io6Library**, **FreeRTOS-Kernel**, **mbedtls**, **pico-sdk** are needed to run FreeRTOS examples.
 
@@ -115,6 +115,7 @@ Link
 
 [link-w6100-evb-pico]: https://docs.wiznet.io/Product/iEthernet/W6100/w6100-evb-pico
 [link-getting_started_with_raspberry_pi_pico]: https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf
+[link-AddressAutoConfiguration]: https://github.com/Wiznet/RP2040-v6-HAT-FREERTOS-C/tree/main/examples/AddressAutoConfiguration
 [link-io6library]: https://github.com/Wiznet/io6Library
 [link-freertos_kernel]: https://github.com/FreeRTOS/FreeRTOS-Kernel
 [link-mbedtls]: https://github.com/ARMmbed/mbedtls
