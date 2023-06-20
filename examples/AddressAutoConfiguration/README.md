@@ -154,5 +154,5 @@ Link
 [link-raspberry_pi_pico_usb_mass_storage]: https://github.com/Wiznet/RP2040-v6-HAT-FREERTOS-C/blob/main/static/images/raspberry_pi_pico_usb_mass_storage.png
 [link-connect_to_serial_com_port]: https://github.com/Wiznet/RP2040-v6-HAT-FREERTOS-C/blob/main/static/images/connect_to_serial_com_port.png
 
-[link-connect_to_loopback_server_tcp_client_ipv4]: https://github.com/Wiznet/RP2040-v6-HAT-FREERTOS-C/blob/main/static/images/loopback/connect_to_loopback_server_tcp_client_ipv4.png
-[link-connect_to_loopback_server_tcp_client_ipv6]: https://github.com/Wiznet/RP2040-v6-HAT-FREERTOS-C/blob/main/static/images/loopback/connect_to_loopback_server_tcp_client_ipv6.png
+[link-connect_to_loopback_server_tcp_client_ipv4]: https://github.com/Wiznet/RP2040-v6-HAT-FREERTOS-C/blob/main/static/images/connect_to_loopback_server_tcp_client_ipv4.png
+[link-connect_to_loopback_server_tcp_client_ipv6]: https://github.com/Wiznet/RP2040-v6-HAT-FREERTOS-C/blob/main/static/images/connect_to_loopback_server_tcp_client_ipv6.png
